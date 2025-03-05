@@ -56,10 +56,3 @@ Pytorch13：关于网络压缩实践，使用了Architecture Design和Knowledge 
 Pytorch14：关于Life Long Learning的研究，尝试了Selective Synaptic Plasticity方法
 
 Pytorch15：关于小样本学习的meta learning实践，实现模型初始化参数学习
-
-
-#### 作者
-
-<img src="https://gitee.com/Super_XIAOTANG/Deep-Learning/raw/master/IMG/%E8%B5%B5%E5%B0%8F%E6%A3%A0@Super_XIAOTANG.jpg" width=450 height=450 />
-
-
